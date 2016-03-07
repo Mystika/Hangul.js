@@ -11,7 +11,7 @@ Hangul.js는 한글의 자/모음 분리와 분리된 자/모음을 결합시키
   >> ["ㅇ", "ㅏ", "ㄴ", "ㄴ", "ㅕ", "ㅇ", "ㅎ", "ㅏ", "ㅅ", "ㅔ", "ㅇ", "ㅛ", "!"]
   ```
   
-- Hangul.seperateToObbect(string)
+- Hangul.seperateToObject(string)
 
   ```javascript
   Hangul.seperateToOjbect("안녕하세요!")
